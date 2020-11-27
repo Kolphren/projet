@@ -16,6 +16,7 @@ h1{
     color: transparent;
     font-size: 100px;
     text-align: center;
+    animation: spin 1s infinite linear;
 }
 #hamster{
     width: 200px;
